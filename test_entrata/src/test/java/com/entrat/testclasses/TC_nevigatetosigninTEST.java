@@ -51,14 +51,14 @@ public class TC_nevigatetosigninTEST extends baseclass  {
 		page.gettext();
 		Assert.assertTrue(page.Verifytext.contains("Resident Login"));
 	}
-	
+	//click on ResidentialClick tab
 	@Test (priority = 4)
 	public void ResidentialClick() {
 		page =new Indexpage(driver);
 		page.click(page.verify);	
 	}
 	
-	
+	//click on language drop down and select English(GB) by using select class
 	@Test (priority = 5)
 	public void LanguageDropDown() throws InterruptedException {
 		page =new Indexpage(driver);
@@ -67,17 +67,19 @@ public class TC_nevigatetosigninTEST extends baseclass  {
 		page.selectDropByIndex(page.languagedropdown,9);		
 		
 	}
+	//Click on view website tab
 	@Test (priority = 6)
 	public void viewWebsite() {
 		page =new Indexpage(driver);
 		page.click(page.viewwebsite);
 	}
+	//Click on contact us
 	@Test (priority = 7)
 	public void contactUs() {
 		page =new Indexpage(driver);
 		page.click(page.contactus);
 	}
-	
+	//Enter all the details in form .
 	@Test (priority = 8)
 	public void fillContactInfo() {
 		page =new Indexpage(driver);

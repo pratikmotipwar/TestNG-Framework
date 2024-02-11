@@ -2,48 +2,48 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-11T20:58:05 IST" name="Default suite" finished-at="2024-02-11T20:58:27 IST" duration-ms="21557">
+  <suite started-at="2024-02-11T22:44:29 IST" name="Default suite" finished-at="2024-02-11T22:45:00 IST" duration-ms="31188">
     <groups>
     </groups>
-    <test started-at="2024-02-11T20:58:05 IST" name="Default test" finished-at="2024-02-11T20:58:27 IST" duration-ms="21557">
+    <test started-at="2024-02-11T22:44:29 IST" name="Default test" finished-at="2024-02-11T22:45:00 IST" duration-ms="31188">
       <class name="com.entrat.testclasses.TC_nevigatetosigninTEST">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:05 IST" name="setup" finished-at="2024-02-11T20:58:12 IST" duration-ms="6249" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T22:44:29 IST" name="setup" finished-at="2024-02-11T22:44:39 IST" duration-ms="9872" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="lauchbrower()[pri:1, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:12 IST" name="lauchbrower" finished-at="2024-02-11T20:58:12 IST" duration-ms="335" status="PASS">
+        <test-method signature="lauchbrower()[pri:1, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T22:44:39 IST" name="lauchbrower" finished-at="2024-02-11T22:44:39 IST" duration-ms="459" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lauchbrower -->
-        <test-method signature="verifySignInPage()[pri:2, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:12 IST" name="verifySignInPage" finished-at="2024-02-11T20:58:14 IST" duration-ms="2139" status="PASS">
+        <test-method signature="verifySignInPage()[pri:2, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T22:44:39 IST" name="verifySignInPage" finished-at="2024-02-11T22:44:42 IST" duration-ms="2370" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySignInPage -->
-        <test-method signature="nagvigatingToHomeScreen()[pri:3, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:14 IST" name="nagvigatingToHomeScreen" finished-at="2024-02-11T20:58:18 IST" duration-ms="3840" status="PASS">
+        <test-method signature="nagvigatingToHomeScreen()[pri:3, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T22:44:42 IST" name="nagvigatingToHomeScreen" finished-at="2024-02-11T22:44:45 IST" duration-ms="3404" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- nagvigatingToHomeScreen -->
-        <test-method signature="ResidentialClick()[pri:4, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:18 IST" name="ResidentialClick" finished-at="2024-02-11T20:58:22 IST" duration-ms="4179" status="PASS">
+        <test-method signature="ResidentialClick()[pri:4, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T22:44:45 IST" name="ResidentialClick" finished-at="2024-02-11T22:44:52 IST" duration-ms="7083" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ResidentialClick -->
-        <test-method signature="LanguageDropDown()[pri:5, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:22 IST" name="LanguageDropDown" finished-at="2024-02-11T20:58:25 IST" duration-ms="3057" status="PASS">
+        <test-method signature="LanguageDropDown()[pri:5, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T22:44:52 IST" name="LanguageDropDown" finished-at="2024-02-11T22:44:58 IST" duration-ms="5496" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LanguageDropDown -->
-        <test-method signature="viewWebsite()[pri:6, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:25 IST" name="viewWebsite" finished-at="2024-02-11T20:58:25 IST" duration-ms="167" status="PASS">
+        <test-method signature="viewWebsite()[pri:6, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T22:44:58 IST" name="viewWebsite" finished-at="2024-02-11T22:44:58 IST" duration-ms="361" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- viewWebsite -->
-        <test-method signature="contactUs()[pri:7, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:25 IST" name="contactUs" finished-at="2024-02-11T20:58:25 IST" duration-ms="96" status="PASS">
+        <test-method signature="contactUs()[pri:7, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T22:44:58 IST" name="contactUs" finished-at="2024-02-11T22:44:58 IST" duration-ms="121" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- contactUs -->
-        <test-method signature="fillContactInfo()[pri:8, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:25 IST" name="fillContactInfo" finished-at="2024-02-11T20:58:27 IST" duration-ms="1266" status="PASS">
+        <test-method signature="fillContactInfo()[pri:8, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T22:44:58 IST" name="fillContactInfo" finished-at="2024-02-11T22:45:00 IST" duration-ms="1745" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- fillContactInfo -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:27 IST" name="tearDown" finished-at="2024-02-11T20:58:27 IST" duration-ms="166" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T22:45:00 IST" name="tearDown" finished-at="2024-02-11T22:45:00 IST" duration-ms="188" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

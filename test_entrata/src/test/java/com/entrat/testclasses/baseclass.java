@@ -20,6 +20,7 @@ public class baseclass extends readconfig{
 	
  public WebDriver driver;
 	 
+ //Before class which will run at the start
  @BeforeClass
 	 public void setup() {
 		 
@@ -34,7 +35,7 @@ public class baseclass extends readconfig{
 	 }
 	 
 
-	 
+//After class method will run after the execution of all test methods	 
 	 @AfterClass
 	 public void tearDown() {
 		 driver.close();
