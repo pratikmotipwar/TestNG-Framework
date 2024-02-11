@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-11T20:58:05 IST" name="Default suite" finished-at="2024-02-11T20:58:27 IST" duration-ms="21557">
+    <groups>
+    </groups>
+    <test started-at="2024-02-11T20:58:05 IST" name="Default test" finished-at="2024-02-11T20:58:27 IST" duration-ms="21557">
+      <class name="com.entrat.testclasses.TC_nevigatetosigninTEST">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:05 IST" name="setup" finished-at="2024-02-11T20:58:12 IST" duration-ms="6249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="lauchbrower()[pri:1, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:12 IST" name="lauchbrower" finished-at="2024-02-11T20:58:12 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchbrower -->
+        <test-method signature="verifySignInPage()[pri:2, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:12 IST" name="verifySignInPage" finished-at="2024-02-11T20:58:14 IST" duration-ms="2139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySignInPage -->
+        <test-method signature="nagvigatingToHomeScreen()[pri:3, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:14 IST" name="nagvigatingToHomeScreen" finished-at="2024-02-11T20:58:18 IST" duration-ms="3840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nagvigatingToHomeScreen -->
+        <test-method signature="ResidentialClick()[pri:4, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:18 IST" name="ResidentialClick" finished-at="2024-02-11T20:58:22 IST" duration-ms="4179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResidentialClick -->
+        <test-method signature="LanguageDropDown()[pri:5, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:22 IST" name="LanguageDropDown" finished-at="2024-02-11T20:58:25 IST" duration-ms="3057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LanguageDropDown -->
+        <test-method signature="viewWebsite()[pri:6, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:25 IST" name="viewWebsite" finished-at="2024-02-11T20:58:25 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewWebsite -->
+        <test-method signature="contactUs()[pri:7, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:25 IST" name="contactUs" finished-at="2024-02-11T20:58:25 IST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs -->
+        <test-method signature="fillContactInfo()[pri:8, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:25 IST" name="fillContactInfo" finished-at="2024-02-11T20:58:27 IST" duration-ms="1266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillContactInfo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.entrat.testclasses.TC_nevigatetosigninTEST@63376bed]" started-at="2024-02-11T20:58:27 IST" name="tearDown" finished-at="2024-02-11T20:58:27 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.entrat.testclasses.TC_nevigatetosigninTEST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
